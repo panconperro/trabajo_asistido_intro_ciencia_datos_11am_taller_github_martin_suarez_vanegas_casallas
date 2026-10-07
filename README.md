@@ -14,17 +14,17 @@ Nate Silver es un licenciado en economía de formación, sin embargo se convirti
 
 **Acerca del proyecto**
 
-El propósito principal de PECOTA es responder a dos preguntas que se plantean los equipos de béisbol, ¿cuánto producirá un jugador en las próximas temporadas y cuándo alcanzará su punto máximo de rendimiento antes de empezar a declinar? Para poder llevar a cabo este proyecto, Nate Silver abarcó la recolección y limpieza de grandes volúmenes de datos, posteriormente en la fase de desarrollo, construyó una base de datos masiva con el historial completo de métricas de bateo y picheo, limpiando las estadísticas y ajustándolas según la dificultad de las ligas menores y los efectos de los estadios. Posteriormente, programó un mecanismo que identifica "jugadores gemelos" del pasado para proyectar no solo una cifra promedio de rendimiento, sino un espectro completo de posibles escenarios (pessimista, esperado y optimista) para la carrera de cada atleta)[cite: 1].
+El propósito principal de PECOTA es responder a dos preguntas que se plantean los equipos de béisbol, ¿cuánto producirá un jugador en las próximas temporadas y cuándo alcanzará su punto máximo de rendimiento antes de empezar a declinar? Para poder llevar a cabo este proyecto, Nate Silver abarcó la recolección y limpieza de grandes volúmenes de datos, posteriormente en la fase de desarrollo, construyó una base de datos masiva con el historial completo de métricas de bateo y picheo, limpiando las estadísticas y ajustándolas según la dificultad del partido y si estaba compitiendo por ejemplo en las ligas menores y  asimismo añadio los efectos de los estadios. Por ultimo, programó un mecanismo que identifica "jugadores gemelos" del pasado para proyectar no solo una cifra promedio de rendimiento, sino un rango de posibles escenarios como por ejemplo el pesimista, el esperado y el optimista para la carrera de cada jugador.
 
 **Análisis de resultados**
 
-(El análisis de los resultados del experimento)
+El proyecto llevado a cabo por Nate Silver demostró que el agrupamiento por similitud capturo los picos y declives de rendimiento de los jugadores con mucha mayor exactitud que otros modelos como por ejemplo las regresiones lineales tradicionales. PECOTA destacó por predecir con éxito el potencial de jugadores jóvenes y calculo con precisión el éxito de equipos que quizas por otros parametros pasaban desapercibidos, por ejemplo la histórica temporada de 97 victorias de los Tampa Bay Rays en 2008.
 
 **Resultados/Conclusiones**
 
-(Conclusión final del proyecto y cuál fue su influencia)
+El proyecto PECOTA demostró la viabilidad de la ciencia de datos en la gestión deportiva al predecir con éxito el surgimiento de jóvenes promesas y anticipar el rendimiento de equipos catalogados como débiles por los modelos convencionales, asi transformando la evaluación y la toma de decisiones financieras en el béisbol profesional.
 
->(*Nombre del proyecto*)
+>(*PECOTA*)
 
 .
 .
