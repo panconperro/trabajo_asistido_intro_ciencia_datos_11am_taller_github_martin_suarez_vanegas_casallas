@@ -1,10 +1,10 @@
 <div align="center">
   
-# Nombre del proyecto
+# PECOTA
 
 ## Nombre del científico
 
-![Imagen del científico](url-de-la-imagen)
+![Imagen del científico](https://upload.wikimedia.org/wikipedia/commons/1/15/Nate_silver_poker.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
 
 </div>
 
